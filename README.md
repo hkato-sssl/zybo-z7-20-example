@@ -2,7 +2,7 @@
 
 Here we provide a script that generates the bitstream used by the following repository.
 
-URL: git@github.com:hkato-sssl/zynq7000-baremetal-rs.git
+https://github.com/hkato-sssl/zynq7000-baremetal-rs
 
 # Environment
 
